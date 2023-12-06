@@ -1,7 +1,7 @@
 # 🌎 About me:
 
 
-📌 Sou de São Paulo - SP, Brasil.<br>🥁 Gosto muito de tocar Bateria.<br>👨🏾‍🎓Atualmente sou estudante de Ciência da Computação.<br>🎯Estou em busca de uma oportunidade no mercado de Ti.<br>🚀Futuro Full Stack
+📌 Sou de São Paulo - SP, Brasil.<br>🥁 Gosto muito de tocar Bateria.<br>👨🏾‍🎓Atualmente sou estudante de Ciência da Computação.<br>🎯Estou em busca de uma oportunidade no mercado de Ti.
 <br>
 <br>
 # 💻 Tech Stack:
